@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/9/trunk/tags/code/1.1/cores/sanguino
+END
+HardwareSerial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9/trunk/tags/code/1.1/cores/sanguino/HardwareSerial.cpp
+END
+wiring_serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9/trunk/tags/code/1.1/cores/sanguino/wiring_serial.c
+END
+wiring_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9/trunk/tags/code/1.1/cores/sanguino/wiring_private.h
+END
+pins_arduino.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9/trunk/tags/code/1.1/cores/sanguino/pins_arduino.h
+END
+wiring.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9/trunk/tags/code/1.1/cores/sanguino/wiring.c
+END
+HardwareSerial.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9/trunk/tags/code/1.1/cores/sanguino/HardwareSerial.h
+END
+WProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9/trunk/tags/code/1.1/cores/sanguino/WProgram.h
+END
+main.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9/trunk/tags/code/1.1/cores/sanguino/main.cxx
+END
+wiring.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9/trunk/tags/code/1.1/cores/sanguino/wiring.h
+END
+WInterrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9/trunk/tags/code/1.1/cores/sanguino/WInterrupts.c
+END
+wiring_pulse.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9/trunk/tags/code/1.1/cores/sanguino/wiring_pulse.c
+END
+WConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9/trunk/tags/code/1.1/cores/sanguino/WConstants.h
+END
+buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9/trunk/tags/code/1.1/cores/sanguino/buffer.c
+END
+uart.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9/trunk/tags/code/1.1/cores/sanguino/uart.c
+END
+buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9/trunk/tags/code/1.1/cores/sanguino/buffer.h
+END
+wiring_analog.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9/trunk/tags/code/1.1/cores/sanguino/wiring_analog.c
+END
+WMath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9/trunk/tags/code/1.1/cores/sanguino/WMath.cpp
+END
+uart.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9/trunk/tags/code/1.1/cores/sanguino/uart.h
+END
+binary.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9/trunk/tags/code/1.1/cores/sanguino/binary.h
+END
+pins_arduino.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9/trunk/tags/code/1.1/cores/sanguino/pins_arduino.c
+END
+wiring_digital.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9/trunk/tags/code/1.1/cores/sanguino/wiring_digital.c
+END
+wiring_shift.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9/trunk/tags/code/1.1/cores/sanguino/wiring_shift.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9/trunk/tags/code/1.1/cores/sanguino/Makefile
+END

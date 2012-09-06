@@ -1,0 +1,9 @@
+***************** v1.1 ***************************
+
+- added ADABoot bootloader mods from Brian Riley
+- fixed bootloader path in boards.txt
+- added missing Serial.flush() support
+
+***************** v1.0 ***************************
+
+Did the initial port to atmega644p

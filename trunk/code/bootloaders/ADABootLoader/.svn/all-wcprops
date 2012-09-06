@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/65/trunk/code/bootloaders/ADABootLoader
+END
+ATmegaBOOT_168.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/65/trunk/code/bootloaders/ADABootLoader/ATmegaBOOT_168.c
+END
+ADABoot_644p.hex
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/65/trunk/code/bootloaders/ADABootLoader/ADABoot_644p.hex
+END
+ADABoot_168.hex
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/65/trunk/code/bootloaders/ADABootLoader/ADABoot_168.hex
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/65/trunk/code/bootloaders/ADABootLoader/Makefile
+END

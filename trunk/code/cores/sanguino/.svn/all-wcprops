@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/62/trunk/code/cores/sanguino
+END
+main.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/36/trunk/code/cores/sanguino/main.cxx
+END
+wiring.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/code/cores/sanguino/wiring.h
+END
+WInterrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/58/trunk/code/cores/sanguino/WInterrupts.c
+END
+wiring_pulse.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/58/trunk/code/cores/sanguino/wiring_pulse.c
+END
+WConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/36/trunk/code/cores/sanguino/WConstants.h
+END
+wiring_analog.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/50/trunk/code/cores/sanguino/wiring_analog.c
+END
+WMath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/58/trunk/code/cores/sanguino/WMath.cpp
+END
+binary.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/36/trunk/code/cores/sanguino/binary.h
+END
+pins_arduino.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/57/trunk/code/cores/sanguino/pins_arduino.c
+END
+Print.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/48/trunk/code/cores/sanguino/Print.cpp
+END
+wiring_digital.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/50/trunk/code/cores/sanguino/wiring_digital.c
+END
+wiring_shift.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/36/trunk/code/cores/sanguino/wiring_shift.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/50/trunk/code/cores/sanguino/Makefile
+END
+HardwareSerial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/58/trunk/code/cores/sanguino/HardwareSerial.cpp
+END
+wiring_serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/48/trunk/code/cores/sanguino/wiring_serial.c
+END
+wiring_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/36/trunk/code/cores/sanguino/wiring_private.h
+END
+pins_arduino.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/36/trunk/code/cores/sanguino/pins_arduino.h
+END
+wiring.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/code/cores/sanguino/wiring.c
+END
+Print.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/48/trunk/code/cores/sanguino/Print.h
+END
+HardwareSerial.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/48/trunk/code/cores/sanguino/HardwareSerial.h
+END
+WProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/58/trunk/code/cores/sanguino/WProgram.h
+END

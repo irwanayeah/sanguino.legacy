@@ -1,0 +1,22 @@
+############ Step 0:  Test it. ############ 
+
+Hehehehe.
+
+############ Step 1:  Update code/CHANGELOG ############ 
+
+# svn log code/changelog
+this will get you the log on the changelog... you can usually figure out what rev the last release was.
+
+# svn log -r LAST_RELEASE:HEAD code
+this will get you all the changes on the code directory since the last release.  LAST_RELEASE should be the number you got above.
+
+############ Step 2: Tag the new version! ############ 
+
+# svn cp code tags/code/x.y
+this will copy everything
+
+############ Step 3: Make the release ############ 
+
+# ./release_code x.y
+
+Where x.y is the version you want.  this makes a .zip file which you should upload to sourceforge.  You should tag the file with 'Featured', 'Type-Software', and 'OpSys-All'.  You should also modify the previous release by removing the 'Featured' tag and adding the 'Obsolete' tag.

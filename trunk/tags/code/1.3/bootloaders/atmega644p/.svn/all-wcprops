@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/42/trunk/tags/code/1.3/bootloaders/atmega644p
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/42/trunk/tags/code/1.3/bootloaders/atmega644p/Makefile
+END
+ATmegaBOOT_644.hex
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/42/trunk/tags/code/1.3/bootloaders/atmega644p/ATmegaBOOT_644.hex
+END
+ATmegaBOOT.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/42/trunk/tags/code/1.3/bootloaders/atmega644p/ATmegaBOOT.c
+END
